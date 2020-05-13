@@ -6,7 +6,10 @@ public class CreateChannel {
 
         System.out.println("Useris able to create channels");
         
-        
-        //git
+     int x=0; //changed from intellij
+        if (x==0){
+            System.out.println("equal");
+        }
+
     }
 }
